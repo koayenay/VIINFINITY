@@ -3,7 +3,8 @@
 :root {
     --bg1: #151828;
     --bg2: #1B1F34;
-    --body: #959DCC;
+    --body: rgb(195, 191, 191);
+    /*--body: #959DCC;*/
     --brand: #11afc7;
     /* #FFAB76;*/
     --white: #fff;
